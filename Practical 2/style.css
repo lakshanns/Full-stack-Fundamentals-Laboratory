@@ -1,0 +1,26 @@
+.bg-custom-blue {
+  background-color: #4d7bf3;
+}
+
+.btn-custom-blue {
+  background-color: #4d7bf3;
+  color: #ffffff ;
+  border: 1px solid #4d7bf3 ;
+}
+
+.btn-custom-blue:hover {
+  background-color: #3b66d6 ;
+  color: #ffffff ;
+}
+
+.hero-section {
+  background-color: #f8f9fa;
+  padding: 80px 20px;
+}
+
+.placeholder-img {
+  height: 220px;
+  background-color: #cccccc;
+  color: #8c8c8c;
+  font-size: 1.5rem;
+}
